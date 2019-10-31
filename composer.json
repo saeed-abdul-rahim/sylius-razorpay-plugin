@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": "^7.1",
-        "sylius/sylius": "^1.0",
+        "php": "^7.3",
+        "sylius/sylius": "^1.6",
         "razorpay/razorpay": "^2.3"
     },
     "autoload": {
